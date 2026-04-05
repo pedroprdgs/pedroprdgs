@@ -1,20 +1,10 @@
-<h4 align="center">I'm just trying to do better every day</h4>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroprdgs&layout=compact&hide=Yacc,Hack&theme=midnight-purple">
-</div>
-
-<br><br>
+<h4 align="center">I'm just trynna do better</h4>
 
 <h2 align="center">My Languages and Tools</h2>
 
 <div align="center">
-  <img src=https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,docker,postgres,mysql,nodejs,react,pug,cs,py,java,arduino,godot,unity,vscode,visualstudio,discordjs&perline=7&theme=dark>
+  <img src=https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,php,docker,postgres,mysql,nodejs,react,vite,express,flask,cs,py,java,godot,unity,vscode,visualstudio,discordjs,robloxstudio,lua,linux,windows&perline=9&theme=dark>
 </div>
-
-<br>
 
 <h2 align="center">What I'm doing right now</h2>
 
